@@ -1,0 +1,76 @@
+[
+  
+   {
+     "type":"cats",
+     "name":"Axel",
+     "size":"Pequeño",
+     "raza": "Persa",
+     "date": "2022/04/01",
+     "src":"./images/persa.jpg"
+   },
+   {
+     "type":"cats",
+     "name":"Luna",
+     "size":"Pequeño",
+     "raza": "Maine Coon",
+     "date": "2022/04/01",
+     "src":"./images/maine.jpg"
+   },
+   {
+     "type":"cats",
+     "name":"Coco",
+     "size":"Pequeño",
+     "raza": "Bengala",
+     "date": "2022/04/01",
+     "src":"./images/bengala.jpg"
+   },
+   {
+     "type":"cats",
+     "name":"Felix",
+     "size":"Pequeño",
+     "raza": "Esfinge",
+     "date": "2022/04/01",
+     "src":"./images/esfinge.jpg"
+   },
+   {
+     "type":"cats",
+     "name":"Gatsby",
+     "size":"Pequeño",
+     "raza": "Siamés",
+     "date": "2022/04/01",
+     "src":"./images/siames.jpg"
+   },
+
+   {
+     "type":"dogs",
+     "name":"Thor",
+     "size":"Grande",
+     "raza": "Boxer",
+     "date": "2022/04/01",
+     "src":"./images/boxer.jpg"
+   },
+   {
+     "type":"dogs",
+     "name":"Max",
+     "size":"Mediano",
+     "raza": "Beagle",
+     "date": "2022/04/01",
+     "src":"./images/beagle.jpg"
+   },
+   {
+     "type":"dogs",
+     "name":"Simba",
+     "size":"Grande",
+     "raza": "Huski",
+     "date": "2022/04/01",
+     "src":"./images/husky.jpg"
+   },
+   {
+     "type":"dogs",
+     "name":"Toby",
+     "size":"Pequeño",
+     "raza": "Corgi",
+     "date": "2022/04/01",
+     "src":"./images/corgi.jpg"
+   }
+]

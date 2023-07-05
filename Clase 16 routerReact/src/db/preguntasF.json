@@ -1,0 +1,38 @@
+[
+   {
+      "pregunta": " ¿Está bien el peso de mi mascota?",
+      "respuesta": "El sobrepeso puede ser un problema serio si es que no se trata a tiempo, ya que puede conducir a enfermedades coronarias, diabetes e incluso problemas en huesos y articulaciones. Del mismo modo, un animal que está bajo en su peso normal podría estar sufriendo alguna patología que solo el veterinario podrá diagnosticar con precisión."
+   },
+   {
+      "pregunta": " ¿Es adecuada la comida que le estoy dando?",
+      "respuesta": "De acuerdo a la raza, edad, estilo de vida u otros factores el médico veterinario podrá recomendarte el mejor alimento posible para tu amigo. Una buena salud depende en gran medida de una buena nutrición."
+   },
+   {
+      "pregunta": "Consulta sobre conductas inusuales.",
+      "respuesta": "Aprovecha de consultarle al especialista acerca de todas esas conductas extrañas que solo tu mascota parece tener (rascarse excesivamente, lamer más de la cuenta, orinarse en ciertos momentos, etc.). Si es posible, anota previamente las circunstancias en que se produjo tal comportamiento para que el médico evalúe si es normal o no."
+   },
+   {
+      "pregunta": " ¿Tiene mi mascota sus vacunas al día?",
+      "respuesta": "Asegúrate siempre que tu perro o gato cuente con todas sus vacunas y tratamiento antiparasitario al día. Para eso, lleva contigo el calendario de vacunación para que el especialista lo revise."
+   },
+   {
+      "pregunta": " ¿Es necesario hacer una limpieza dental?",
+      "respuesta": "Los problemas en dientes y encías en nuestras mascotas son comunes y potencialmente riesgosos si es que no se tratan adecuadamente. Una simple revisión por parte del médico veterinario será suficiente para detectar alguna anormalidad y tratarla a tiempo, o bien recomendar algún destartraje."
+   },
+   {
+      "pregunta": " ¿Es necesario realizar algún examen de laboratorio?",
+      "respuesta": "Los análisis de sangre u orina son muy efectivos para detectar precozmente enfermedades como la diabetes, el cáncer, problemas renales o de tiroides, los cuáles pueden ser tratados con éxito si es que se detectan temprano. Si logramos establecer una rutina periódica de exámenes el veterinario podrá tener un historial completo del animal para tratarlo."
+   },
+   {
+      "pregunta": " ¿Cuál es el mejor tratamiento para tratar pulgas y garrapatas?",
+      "respuesta": "Algunos parásitos no solo son molestos, sino que también pueden transmitir diversas enfermedades. Afortunadamente, existe una gran variedad de tratamientos para eliminar y prevenirlos, los cuales deben ser indicados por un veterinario que escogerá la mejor opción según las particularidades del animal."
+   },
+   {
+      "pregunta": " ¿Qué son estas protuberancias?",
+      "respuesta": "Con el paso de los años es bastante común que aparezcan masas o lunares y en general no representan ninguna anormalidad. Sin embargo, también son señales de cáncer u otras patologías que deben ser diagnosticadas mediante una biopsia."
+   },
+   {
+      "pregunta": " ¿Podría explicarme mi cuenta?",
+      "respuesta": "Siempre es importante tener claridad de qué es lo que estamos pagando, antes de que se realice la consulte. Por eso, no dejes de preguntarle al médico cuánto cuestan los diferentes servicios previo a tomar alguna decisión."
+   }
+]
